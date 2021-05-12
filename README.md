@@ -2,8 +2,8 @@
 
 **Digital Archive** de fotos e vídeos no modelo de álbum de família digital, com possibilidade de cooperação e herança entre membros e famílias.
 
-### Logo:
 ![alt text](logo02_final.png)
+
 
 <!--- 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
