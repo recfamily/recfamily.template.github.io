@@ -7,8 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 ![alt text](logo02_final.png)
 
-<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
-
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
