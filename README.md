@@ -2,7 +2,7 @@
 
 **Digital Archive** de fotos e vídeos no modelo de álbum de família digital, com possibilidade de cooperação e herança entre membros e famílias.
 
-![alt text](logo02_final.png)
+![logo](logo02_final.png)
 
 
 <!--- 
